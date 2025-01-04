@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-purdue/22-campus-life/transportation/","created":"2024-08-25T19:41:58.293-04:00","updated":"2024-08-28T09:18:00.726-04:00"}
+{"dg-publish":true,"permalink":"/20-29-purdue/22-campus-life/transportation/","created":"2024-08-25T19:41:58.293-04:00","updated":"2024-08-28T09:19:48.958-04:00"}
 ---
 
 *Jump to:*
